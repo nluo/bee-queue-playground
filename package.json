@@ -1,0 +1,23 @@
+{
+  "name": "bee-queue-playground",
+  "version": "1.0.0",
+  "description": "A bee queue playground",
+  "main": "index.js",
+  "dependencies": {
+    "bee-queue": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nluo/bee-queue-playground.git"
+  },
+  "author": "Nick Luo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nluo/bee-queue-playground/issues"
+  },
+  "homepage": "https://github.com/nluo/bee-queue-playground#readme"
+}
