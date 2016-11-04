@@ -4,7 +4,9 @@
   "description": "A bee queue playground",
   "main": "index.js",
   "dependencies": {
-    "bee-queue": "^0.3.0"
+    "bee-queue": "^0.3.0",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
   },
   "devDependencies": {},
   "scripts": {
