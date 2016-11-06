@@ -7,5 +7,5 @@ queue.on('ready', function () {
     done(null, job.data.x + job.data.y);
   });
 
-  console.log('processing jobs...');
+  console.log('processing jobs from worker 2...');
 });

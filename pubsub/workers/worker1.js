@@ -7,5 +7,5 @@ queue.on('ready', function () {
     done(null, parseInt(job.data.x) + parseInt(job.data.y));
   });
 
-  console.log('processing jobs...');
+  console.log('processing jobs from worker 1...');
 });
